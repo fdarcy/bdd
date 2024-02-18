@@ -1,5 +1,10 @@
+package ru.netology.bdd.test;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.netology.bdd.data.DataHelper;
+import ru.netology.bdd.page.DashboardPage;
+import ru.netology.bdd.page.LoginPage;
 
 
 import static com.codeborne.selenide.Selenide.open;

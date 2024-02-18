@@ -1,3 +1,5 @@
+package ru.netology.bdd.data;
+
 import lombok.Value;
 
 import java.util.Random;

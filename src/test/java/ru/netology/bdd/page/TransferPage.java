@@ -1,4 +1,7 @@
+package ru.netology.bdd.page;
+
 import com.codeborne.selenide.SelenideElement;
+import ru.netology.bdd.data.DataHelper;
 
 import java.time.Duration;
 
